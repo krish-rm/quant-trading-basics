@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+yfinance
+TA-Lib
+jupyterlab
+pytest
+pyfolio
+backtrader
+quantlib
+cvxopt
+zipline-reloaded
