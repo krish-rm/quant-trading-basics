@@ -5,19 +5,20 @@
 Quantitative trading is a strategy that combines mathematics, statistics, and computer science to make trading decisions based on data-driven insights. By analyzing historical data and using sophisticated algorithms, quantitative traders can identify patterns and market inefficiencies that can be leveraged for profitable trading strategies. This repository provides a foundation for anyone looking to understand and engage in quantitative trading, offering tools, resources, and techniques to get started.
 
 ## Table of Contents
-1. What is Quant Trading?
-2. Techniques Used by Quantitative Traders
-3. Types of Quant Traders
-4. Programming Languages Used by Quant Traders
-5. Skills Required to be a Quant Trader
-6. How to Improve Your Quant Trading Skills
-7. Top Books and Resources for Quant Traders
-8. AI and Machine Learning in Quant Trading
-9. High-Frequency Trading (HFT) Strategies
-10. Algorithmic Trading Platforms
-11. Backtesting and Paper Trading Tools
-12. Data Sources for Quantitative Trading
-13. Quantitative Trading Research and Communities
+- [What is Quant Trading?](#what-is-quant-trading)
+- [Techniques Used by Quantitative Traders](#techniques-used-by-quantitative-traders)
+- [Types of Quant Traders](#types-of-quant-traders)
+- [Programming Languages Used by Quant Traders](#programming-languages-used-by-quant-traders)
+- [Skills Required to be a Quant Trader](#skills-required-to-be-a-quant-trader)
+- [How to Improve Your Quant Trading Skills](#how-to-improve-your-quant-trading-skills)
+- [Top Books and Resources for Quant Traders](#top-books-and-resources-for-quant-traders)
+- [AI and Machine Learning in Quant Trading](#ai-and-machine-learning-in-quant-trading)
+- [High-Frequency Trading (HFT) Strategies](#high-frequency-trading-hft-strategies)
+- [Algorithmic Trading Platforms](#algorithmic-trading-platforms)
+- [Backtesting and Paper Trading Tools](#backtesting-and-paper-trading-tools)
+- [Data Sources for Quantitative Trading](#data-sources-for-quantitative-trading)
+- [Quantitative Trading Research and Communities](#quantitative-trading-research-and-communities)
+
 
 ## What is Quant Trading?
 Quantitative trading (or "quant trading") is the use of mathematical models, algorithms, and statistical techniques to analyze financial markets and automate the process of making trading decisions. The fundamental premise is that large amounts of financial data can reveal trends, patterns, and correlations that traders can use to make better decisions. Unlike traditional discretionary trading, which relies on human intuition and judgment, quant trading is systematic, data-driven, and typically executed through automated trading systems.
