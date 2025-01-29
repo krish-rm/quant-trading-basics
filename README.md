@@ -6,11 +6,11 @@ Quantitative trading is a strategy that combines mathematics, statistics, and co
 
 ## Table of Contents
 - [What is Quant Trading?](#what-is-quant-trading)
-- [Techniques Used by Quantitative Traders](#techniques-used-by-quantitative-traders)
+- [Techniques used by Quantitative Traders](#techniques-used-by-quantitative-traders)
 - [Types of Quant Traders](#types-of-quant-traders)
-- [Programming Languages Used by Quant Traders](#programming-languages-used-by-quant-traders)
-- [Skills Required to be a Quant Trader](#skills-required-to-be-a-quant-trader)
-- [How to Improve Your Quant Trading Skills](#how-to-improve-your-quant-trading-skills)
+- [Programming Languages used by Quant Traders](#programming-languages-used-by-quant-traders)
+- [Skills required to be a Quant Trader](#skills-required-to-be-a-quant-trader)
+- [How to improve your Quant Trading skills](#how-to-improve-your-quant-trading-skills)
 - [Top Books and Resources for Quant Traders](#top-books-and-resources-for-quant-traders)
 - [AI and Machine Learning in Quant Trading](#ai-and-machine-learning-in-quant-trading)
 - [High-Frequency Trading (HFT) Strategies](#high-frequency-trading-hft-strategies)
@@ -27,7 +27,7 @@ Quant trading strategies can be employed in various financial instruments, inclu
 
 The core idea behind quant trading is that it allows traders to process huge amounts of data, detect complex patterns, and make trading decisions without human biases. This systematic and mathematical approach helps minimize risks, improve performance, and exploit market inefficiencies.
 
-## Techniques Used by Quantitative Traders
+## Techniques used by Quantitative Traders
 Quantitative traders use a range of mathematical, statistical, and computational techniques to analyze and trade financial markets. Below are the key techniques used by quants in their trading strategies:
 
 ### 1. Statistical Analysis
@@ -68,7 +68,7 @@ Quantitative traders can be categorized into several roles, each of which focuse
 6. **Investment/Asset Management Quant** - Develops models to optimize portfolios and minimize risk in asset management firms.
 7. **Research Quant** - Focuses on developing new methods and techniques for quantitative trading.
 
-## Programming Languages Used by Quant Traders
+## Programming Languages used by Quant Traders
 Programming is a critical skill for quantitative traders, as it allows them to implement, test, and optimize their strategies. Below are some of the key programming languages used by quants:
 
 - **Python:** Widely used due to its simplicity, flexibility, and powerful data analysis libraries.
@@ -78,7 +78,7 @@ Programming is a critical skill for quantitative traders, as it allows them to i
 - **R:** A language specifically designed for statistical computing, used for time series forecasting and data visualization.
 - **MATLAB:** Used for advanced numerical computing and financial algorithm development.
 
-## Skills Required to be a Quant Trader
+## Skills required to be a Quant Trader
 Becoming a successful quant trader requires a diverse set of technical, analytical, and financial skills:
 
 - **Mathematics and Statistics** - Advanced knowledge in areas like probability theory, calculus, and linear algebra.
@@ -88,7 +88,7 @@ Becoming a successful quant trader requires a diverse set of technical, analytic
 - **Problem-Solving and Creativity** - Ability to design innovative strategies and solve complex problems.
 - **Attention to Detail** - Precision in model development and execution to avoid significant losses.
 
-## How to Improve Your Quant Trading Skills
+## How to improve your Quant Trading skills
 Improving your quantitative trading skills is an ongoing process:
 
 1. **Continuous Learning** - Take online courses on platforms like Coursera, Udemy, and QuantInsti.
