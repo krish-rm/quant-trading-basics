@@ -2,7 +2,7 @@
 
 # Quantitative Trading Beginners guide
 
-Quantitative trading is a strategy that combines mathematics, statistics, and computer science to make trading decisions based on data-driven insights. By analyzing historical data and using sophisticated algorithms, quantitative traders can identify patterns and market inefficiencies that can be leveraged for profitable trading strategies. This repository provides a foundation for anyone looking to understand and engage in quantitative trading, offering tools, resources, and techniques to get started.
+Quantitative trading is a strategy that combines mathematics, statistics, and computer science to make trading decisions based on data-driven insights. By analyzing historical data and using sophisticated algorithms, quantitative traders can identify patterns and market inefficiencies that can be leveraged for profitable trading strategies. This repository provides a foundation for anyone looking to understand and engage in quant trading, offering tools, resources, and techniques to get started.
 
 ## Table of Contents
 - [What is Quant Trading?](#what-is-quant-trading)
